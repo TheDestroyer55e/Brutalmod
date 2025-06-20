@@ -10,9 +10,7 @@
       "iw6mp64_ship.exe"
     ],
     "required": [],
-    "bonus": [
-      "mods/mod/mod.ff"
-    ],
+    "bonus": [],
     "delete": [
       "iw6x",
       "iw6x.exe",
