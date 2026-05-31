@@ -1,0 +1,16 @@
+Open source software disclosure (effective as of October 18, 2023; subject to change)
+
+This list of open-source code identifies open source code within this AlterWare client, and is intended to be a disclosure of a particular point in time only. Accordingly, you are advised that the List may be updated from time to time.
+
+- asmjit zlib
+- discord-rpc MIT
+- gsc-tool GPL-3.0
+- GSL MIT
+- libtomcrypt LibTom
+- libtommath LibTom
+- minhook BSD 3-Clause
+- protobuf BSD 3-Clause
+- rapidjson MIT
+- udis86 BSD 2-Clause
+- WinToast MIT
+- zlib (custom license)
