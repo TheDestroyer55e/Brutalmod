@@ -1,0 +1,13 @@
+Before you can install the mod, you will need the alterware client. To install that, simply go to https://alterware.dev/ and click download, then follow the instructions there.
+
+To install the mod, make sure you have run the alterware launcher at least once, then copy everything inside of the folder named "files" and paste it inside of your game folder, in the same place you put the alterware launcher. You should be prompted to either skip or replace duplicate files, click replace. Then you can simply run the alterware launcher to open the game.
+
+Once ingame, you will see a mods button on the main menu. This is part of Alterware, and is NOT used by Brutal mod. Attempting to load any of the mods from that menu will softlock your game. To play Brutal difficulty, all you have to do is load into a solo match or a custom match and select the brutal difficulty from the difficulty selector. Starting a map will automatically load the correct mod file for that map, which will close and reopen the game automatically, and then freeze for a couple seconds before continuing to load the map. This is normal, and will happen any time you start a map.
+
+Attempting to join any public servers with the mod installed will not work. It will let you join, but it will be very buggy and none of the custom stuff will work. To play the mod with other people, you have to host a private match and then either port forward and give your friends your ip, or set up radmin vpn. I might make a tutorial on how to do this in the future, if enough people want me to.
+
+Currently the only finished maps are Point of Contact and Nightfall, and attempting to load into any other map will not work at all. The rest of the maps will be released when I finish them, but no promises on that being any time soon.
+
+If you find any bugs, try reinstalling the mod first. Sometimes, Alterware will update and override some of the modded files in the data folder, and simply reinstalling the mod will fix this. If this doesnt fix it, dm me on discord at thedestroyer55e and I will try to fix it. Keep in mind I am just one person developing this in my free time, so do expect there to be bugs as I have not extensively playtested this.
+
+To uninstall the mod, delete the data folder, as well as alterware-launcher.json. Running the alterware launcher should then automatically reinstall the vanilla files and you should be good to go. You do not need to delete the mods folder, as the game will not normally run anything inside of that folder, only my custom scripts in the data folder do anything with that.
