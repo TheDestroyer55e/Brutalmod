@@ -1,3 +1,6 @@
+This is the GitHub download for Brutal Mod, which can also be found here: https://www.nexusmods.com/callofdutyghosts/mods/7
+To download the mod from here, click the "Releases" tab on the right side, and then download "Brutal Mod.zip". Do not download the source code zip as it will not work.
+
 Before you can install the mod, you will need the alterware client. To install that, simply go to https://alterware.dev/ and click download, then follow the instructions there.
 
 To install the mod, make sure you have run the alterware launcher at least once, then copy everything inside of the folder named "files" and paste it inside of your game folder, in the same place you put the alterware launcher. You should be prompted to either skip or replace duplicate files, click replace. Then you can simply run the alterware launcher to open the game.
