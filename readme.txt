@@ -3,7 +3,7 @@ To download the mod from here, click the "Releases" tab on the right side, and t
 
 Before you can install the mod, you will need the alterware client. To install that, simply go to https://alterware.dev/ and click download, then follow the instructions there.
 
-To install the mod, make sure you have run the alterware launcher at least once, then copy everything inside of the folder named "files" and paste it inside of your game folder, in the same place you put the alterware launcher. You should be prompted to either skip or replace duplicate files, click replace. Then you can simply run the alterware launcher to open the game.
+To install the mod, make sure you have run the alterware launcher at least once, then unzip the folder you downloaded. Inside should be a folder named "files", copy everything inside of this folder and paste it inside of your game folder, in the same place you put the alterware launcher. You should be prompted to either skip or replace duplicate files, click replace. Then you can simply run the alterware launcher to open the game.
 
 Once ingame, you will see a mods button on the main menu. This is part of Alterware, and is NOT used by Brutal mod. Attempting to load any of the mods from that menu will softlock your game. To play Brutal difficulty, all you have to do is load into a solo match or a custom match and select the brutal difficulty from the difficulty selector. Starting a map will automatically load the correct mod file for that map, which will close and reopen the game automatically, and then freeze for a couple seconds before continuing to load the map. This is normal, and will happen any time you start a map.
 
