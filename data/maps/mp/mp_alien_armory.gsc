@@ -118,7 +118,7 @@ main()
 
     maps\mp\alien\_alien_class_skills_main::main();
     maps\mp\alien\_pillage_intel::create_intel_spots();
-    level thread wait_for_final_battle_call_nf;
+    level thread wait_for_final_battle_call_nf();
     level thread easter_egg_conduit();
     level thread maps\mp\mp_alien_armory_fx::fx_snow( "light_snow" );
     level thread maps\mp\mp_alien_armory_fx::fx_snow_watcher();
